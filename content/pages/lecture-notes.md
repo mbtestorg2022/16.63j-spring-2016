@@ -31,7 +31,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to Accident Causality, Bhopal, hindsight bias (PDF - 1.7MB)]({{< baseurl >}}/resources/mit16_63js16_lecnotes2)
+[Introduction to Accident Causality, Bhopal, hindsight bias (PDF - 1.7MB)]({{< baseurl >}}/resources/mit16_63js16_lecnotes2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ More on STAMP, systems theory, accident models
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Traditional Hazard Analysis (HA) (PDF - 5.5MB)]({{< baseurl >}}/resources/mit16_63js16_lecnotes8)
+[Traditional Hazard Analysis (HA) (PDF - 5.5MB)]({{< baseurl >}}/resources/mit16_63js16_lecnotes8)
 {{< tdclose >}}
 
 {{< trclose >}}
